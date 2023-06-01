@@ -1,1 +1,2 @@
-
+SELECT example
+FROM ex
