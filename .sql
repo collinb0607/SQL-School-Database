@@ -1,2 +1,1 @@
-SELECT example
-FROM ex
+SELECT NOW();
